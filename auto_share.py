@@ -20,9 +20,6 @@ import random
 import datetime
 import argparse
 
-#OAuth
-# client_id: 732643347775-rdo512q6kt44kroqac0kp0ahgj3erfa7.apps.googleusercontent.com
-# client secret: BKjgj0phE4SEFLqtzb1Icnj1
 #TODO when multiple items in dropdown, hwo to go to each
 #visit group url and post on group page specifically
 
